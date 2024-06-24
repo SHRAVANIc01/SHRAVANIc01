@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shravani</h1>
 <h3 align="center">Passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.craiyon.com/image/2xUvnJ5ORuq2Tq9WLbSy1g](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fsticker%2FCoding-Queens-Anime-Inspired-Designs-for-Girls-Who-Code-by-starpushers%2F148171125.EJUG5&psig=AOvVaw3K5ipPz7LxBxw6KlnR5Iul&ust=1719325507085000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOC3w-W49IYDFQAAAAAdAAAAABAE">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanic01&label=Profile%20views&color=0e75b6&style=flat" alt="shravanic01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shravanic01" alt="shravanic01" /></a> </p>
