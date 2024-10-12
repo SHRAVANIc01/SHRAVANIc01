@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=800&lines=Heyyy!+I'm+Shravani+Chidrewat+%3C3;I'+am+final +yr+Undergrad+at+PCCOE+Pune;Welcome+to+my+profile+!">
 </p>
 <h1 align="Center">Shravani Chidrewar</h1>
-<h3 align="center">Passionate frontend developer</h3>
-
+<!-- <h3 align="center">Passionate frontend developer</h3>
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanic01&label=Profile%20views&color=0e75b6&style=flat" alt="shravanic01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shravanic01" alt="shravanic01" /></a> </p>
